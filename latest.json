@@ -1,11 +1,11 @@
 {
-    "version": "0.2.0",
-    "notes": "Dashboard, export PDF, bibliothèque de recommandations, recherche globale, notifications, suivi post-audit, facturation",
-    "pub_date": "2026-05-10T00:00:00Z",
-    "platforms": {
-      "windows-x86_64": {
-        "signature": "COLLE_ICI_LE_CONTENU_DU_FICHIER_.SIG",
-        "url": "https://github.com/Nicnoc09/audit-shield-releases/releases/download/v0.2.0/Audit.Shield_0.2.0_x64-setup.exe"
-      }
+  "version": "0.2.0",
+  "notes": "Dashboard avec graphiques, export PDF, bibliothèque de 48 recommandations, recherche globale Ctrl+K, barre de progression, notifications automatiques, suivi post-audit, facturation intégrée, page Mon cabinet.",
+  "pub_date": "2026-05-10T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHFOZTNpNkFVM2JGT0toMlZmbEt1OUFtN21ibHRWZmRVcHBpd1NrMkNQbTJBak40SzdFOEdwbkNVbGZ3YXlQQmNubUxmMVduWVZabGtNdTZWVVFlZzcxUGtNanJzV1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDE3NzE2CWZpbGU6QXVkaXQgU2hpZWxkXzAuMi4wX3g2NC1zZXR1cC5leGUKYmRVRmFuVmFqRktQTEZrSjlOdUx4cGIxSloyY0FLMzJ2Q3B0UUlkTVI5KzhSYkJQb3RMRzJ5aVNaM3gzNTk0WHRjT2U3Q2I2dUpwMXoxREV5MXQvQ0E9PQo=",
+      "url": "https://github.com/Nicnoc09/audit-shield-releases/releases/download/v0.2.0/Audit.Shield_0.2.0_x64-setup.exe"
     }
   }
+}
