@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "notes": "Dashboard, export PDF, bibliothèque de recommandations, recherche globale, notifications, suivi post-audit, facturation",
+    "pub_date": "2026-05-10T00:00:00Z",
+    "platforms": {
+      "windows-x86_64": {
+        "signature": "COLLE_ICI_LE_CONTENU_DU_FICHIER_.SIG",
+        "url": "https://github.com/Nicnoc09/audit-shield-releases/releases/download/v0.2.0/Audit.Shield_0.2.0_x64-setup.exe"
+      }
+    }
+  }
